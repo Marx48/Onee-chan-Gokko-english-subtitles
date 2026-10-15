@@ -1,4 +1,4 @@
-# Onee chan Gokko(Playing sister) english subtitles
+# Onee-chan Gokko(Playing sister) english subtitles
 Unofficial english subtitles for episode 2 and 3(when released) for Onee-chan Gokko. Edited and refined in Aegisub.
 This project contains an edited and refined .ass subtitle file for the second episode of the anime. The subtitles were revised using Aegisub, with attention to timing, readability, line breaks, and overall presentation.
 
