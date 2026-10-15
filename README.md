@@ -7,7 +7,7 @@ The goal of this project is to provide a revised subtitle file for viewers who w
 The subtitle file was extracted from an existing source and subsequently edited and refined. This project is an independent subtitle-editing effort and is not an official release.
 
 Contents
-Episode 2.ass — Edited English subtitles in Advanced SubStation Alpha (.ass) format.
+Episode 2.ass. Edited English subtitles in Advanced SubStation Alpha (.ass) format.
 
 Editing
 The subtitle file was edited using Aegisub, a subtitle editor that supports advanced formatting, positioning, styling, and timing adjustments.
